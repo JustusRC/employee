@@ -1,5 +1,3 @@
-package employee;
-
 import java.util.LinkedList;
 
 public class testerProgram {
